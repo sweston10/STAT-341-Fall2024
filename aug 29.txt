@@ -1,0 +1,12 @@
+Shaniah Weston
+# Created 100 random numbers and store them in a varaible called variable1
+# Calculate sd, mean,and median of variavle
+
+variable1 <-c(sample(1:10, 1000, replace=T))
+
+> sd(variable1)
+[1] 2.883794
+> mean(variable1)
+[1] 5.243
+> median(variable1)
+[1] 5

@@ -1,0 +1,17 @@
+Shaniah Weston September 2
+
+Write a paragraph on difference between variance and Standard Deviation?
+
+Standard Deviation is the average amount of Varibility in your data set.
+It tells you on average how far each score lies from mean. Variance is expressed
+in much largeer units while standard deviation is expressed in the same unit.
+Essentially, while variance gives a broad sense of spread, standard deviation provides a more intuitive measure by reflecting 
+the average distance of each data point from the mean.
+
+Explain the formula for each of these definition?
+
+ Variance formula is In R, you calculate variance using the var() function. 
+By default, var() calculates the sample variance. 
+
+In R, you can use the sd() function to calculate the standard deviation. 
+By default, sd() computes the sample standard deviation. 
